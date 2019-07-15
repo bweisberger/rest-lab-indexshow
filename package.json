@@ -1,0 +1,23 @@
+{
+  "name": "rest-lab-indexshow",
+  "version": "1.0.0",
+  "description": "lab on restful routes index and show",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bweisberger/rest-lab-indexshow.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bweisberger/rest-lab-indexshow/issues"
+  },
+  "homepage": "https://github.com/bweisberger/rest-lab-indexshow#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
